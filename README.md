@@ -88,6 +88,11 @@
       <td>Automated system for collecting news from RSS and YouTube, then publishing through Telegram and Discord.</td>
       <td><a href="https://github.com/NewDeveloper888/AI-News-Automation-System" target="_blank">Open Project</a></td>
     </tr>
+    <tr>
+      <td><b>AI Agent Design Patterns</b></td>
+      <td>Core architectural patterns (Chaining, Routing, Parallelization, Orchestrator) implemented using the Gemini API.</td>
+      <td><a href="https://github.com/NewDeveloper888/System-design-agents" target="_blank">Open Project</a></td>
+    </tr>
   </tbody>
 </table>
 
