@@ -137,7 +137,7 @@
 <h3>🌐 Where to find me</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/mahmoud-yasser-39a589398/" target="_blank">
+  <a href="" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@mahmoudyasser2139" target="_blank">
