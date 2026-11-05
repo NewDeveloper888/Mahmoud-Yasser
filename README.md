@@ -36,7 +36,7 @@
   <b><a href="https://www.youtube.com/@mahmoudyasser2139" target="_blank">Mahmoud codes Ai - محمود يبرمج ذكاء اصطناعي</a></b>.
 </p>
 
-<h3>📂 Featured Projects</h3>
+<h3>📂 n8n Projects</h3>
 
 <table>
   <thead align="center">
@@ -91,8 +91,27 @@
       <td><b>AI News Automation</b></td>
       <td>Automated system for collecting news from RSS and YouTube, then publishing through Telegram and Discord.</td>
       <td><a href="https://github.com/NewDeveloper888/AI-News-Automation-System" target="_blank">Open Project</a></td>
-    </tr>
+
+  </tbody>
+</table>
+
+<h3>projects with python(fastapi-pydantic)</h3>
+<table>
+  <thead>
     <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Biomedical Ai researcher agent</b></td>
+      <td> it is a agent working in scientific field working in search on specific topics and make a suitable environment for medical reseacher</td>
+      <td><a href="https://github.com/NewDeveloper888/-Biomedical-Research-Agent.git" target="_blank">Open Project</a></td>
+  </tr>
+   
+  <tr>
       <td><b>AI Agent Design Patterns</b></td>
       <td>Core architectural patterns (Chaining, Routing, Parallelization, Orchestrator) implemented using the Gemini API.</td>
       <td><a href="https://github.com/NewDeveloper888/System-design-agents" target="_blank">Open Project</a></td>
@@ -105,34 +124,32 @@
   </tbody>
 </table>
 
-<h3>🛠 What I'm working on</h3>
+<h3>Data analysis and machine learning minor projects</h3>
+
+ </tbody>
+</table>
+
 
 <table>
-  <thead align="center">
+  <thead>
     <tr>
-      <td><b>🚀 Project Type</b></td>
-      <td><b>🛠 Tech Stack</b></td>
-      <td><b>🎯 Goal</b></td>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>AI Automation Workflows</b></td>
-      <td>n8n, Python, OpenAI</td>
-      <td>Automating complex business processes and API integrations.</td>
-    </tr>
-    <tr>
-      <td><b>Python Tools</b></td>
-      <td>Python, FastAPI</td>
-      <td>Developing efficient backends and data automation scripts.</td>
-    </tr>
-    <tr>
-      <td><b>Multi-Agent AI Systems</b></td>
-      <td>OpenAI, Gemini, LangChain, n8n</td>
-      <td>Building intelligent systems that can think, route, and act autonomously.</td>
-    </tr>
+      <td><b> numpy and pandas and OOP notebooks</b></td>
+      <td> it is a notebooks for GDG Zagazig on camps tutorials for students </td>
+      <td><a href="https://github.com/NewDeveloper888/GDG-TASK-.git" target="_blank">Open Project</a></td>
+
   </tbody>
 </table>
+
+
+
+
 
 <h3>🌐 Where to find me</h3>
 
